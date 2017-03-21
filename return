@@ -1,0 +1,29 @@
+[33mcommit 835c9e7f75f3d23b5e58bd016f9ed3d1d26359b8[m
+Author: Lizhiguo <396063207@qq.com>
+Date:   Tue Mar 21 14:03:01 2017 +0800
+
+    完成天气界面以及数据的读取
+
+[33mcommit 36f1774d551cecf419cea702687c8c857b78bb7c[m
+Author: Lizhiguo <396063207@qq.com>
+Date:   Sun Mar 19 19:01:27 2017 +0800
+
+    完成遍历省市县三级列表的功能
+
+[33mcommit 3c4588e7b16a839c8a2fbd9ee04ebb66f96222b7[m
+Author: Lizhiguo <396063207@qq.com>
+Date:   Sat Mar 18 19:06:54 2017 +0800
+
+    加入创建数据库和各项配置。
+
+[33mcommit 80632560b5b8ca87acdc8bff905788a5a60d544a[m
+Author: Lizhiguo <396063207@qq.com>
+Date:   Sat Mar 18 17:11:23 2017 +0800
+
+    First commit.
+
+[33mcommit 357411a4d259bc021bb17ab9d8e411defe3512f5[m
+Author: AlisLi <396063207@qq.com>
+Date:   Sat Mar 18 16:38:21 2017 +0800
+
+    Initial commit
