@@ -31,8 +31,6 @@ import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.Response;
 
-import static com.example.coolweather.WeatherActivity.weatherId;
-
 /**
  * Created by Lizhiguo on 2017/3/19.
  */
@@ -114,7 +112,7 @@ public class ChooseAreaFragment extends Fragment {
                     queryCounties();
                 }else if(currentLevel == LEVEL_COUNTY){
 
-                    weatherId = countyList.get(position).getWeatherId();
+                    String weatherId = countyList.get(position).getWeatherId();
 
                     if(getActivity() instanceof MainActivity){
 
